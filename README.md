@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SATISHKUMARRAJUVEMPALLI
 - 👀 I’m interested Working in Data world
-- 🌱 I’m currently Pursuing my Data Science And Engineering
+- 🌱 I Pursued PGP in Data Science And Engineering
 - 💞️ I’m looking to collaborate on Data related Indsutries.
 - 📫 How to reach me ...
 
